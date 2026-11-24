@@ -51,6 +51,8 @@ python -m venv .venv
 
 Для публікації виберіть цей репозиторій, гілку main та головний файл app.py. В Advanced settings оберіть Python 3.11 або новішу сумісну версію.
 
-Посилання на опублікований застосунок буде додано після успішного розгортання.
+Опублікований застосунок: https://mazur-study-planner-lr6.streamlit.app/
+
+Репозиторій: https://github.com/mazuuur9672/study-planner-lr6
 
 Для перевірок можна задати змінну середовища STUDY_PLANNER_DB зі шляхом до окремої SQLite-бази. Робочий файл planner.db створюється відносно db.py.
